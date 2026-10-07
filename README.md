@@ -1,1 +1,2 @@
-# 2026-10-KIT-COC-ST-045
+Title: Design and Simulation Analysis of a Wearable Lower Limb Rehabilitation Robot for Gait Training
+Domain: Wearable Lower Limb Rehabilitation,Robot design
